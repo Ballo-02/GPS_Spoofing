@@ -1,0 +1,1 @@
+.\gps-sdr-sim.exe -b 8 -e brdc0330.23n -g speed.txt
